@@ -1,6 +1,6 @@
 - 👋 Hi, I am Satyapal Yadav.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java DSA ,Node and React.
+- 🌱 I’m currently learning JavaScript DSA ,Node and React along with HTML & CSS.
 - 💞️ I’m looking to collaborate on such a project where I could learn new skill and develope existing skill also.
 - 📫 How to reach me .. (contact me on mail satyapal.mechworld@gmail.com )
 
